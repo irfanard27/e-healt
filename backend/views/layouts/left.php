@@ -1,19 +1,6 @@
 <aside class="main-sidebar">
 
     <section class="sidebar">
-
-        <!-- Sidebar user panel -->
-        <div class="user-panel" style="text-align: center">
-            <div class="center">
-                <img src="<?=Yii::getAlias('@web')."/img/iai-logo.png"?>" height="auto" width="150px" alt="User Image"/>
-            </div><br>
-            <div style="color: #ffffff">
-                <b>Sistem Informasi Akademik<br>
-                    IAI Sunan Giri
-                </b>
-            </div>
-        </div>
-
         <ul class="sidebar-menu">
             <li class="header">MENU UTAMA</li>
         </ul>

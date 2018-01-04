@@ -4,14 +4,14 @@
 
 $this->title = 'Beranda';
 ?>
-<div class="site-index"  style="background: url('<?=Yii::getAlias('@web')."/img/bg-brd.JPG"?>');background-position-x: center;background-position-y: center ">
+<div class="site-index">
 
     <div>
-        <div class="jumbotron" style="color: #ffffff">
-            <img src="<?=Yii::getAlias('@web')."/img/iai-logo.png"?>" height="auto" width="350px" alt="User Image"/>
-            <h1 >Sistem Informasi Akademik</h1>
+        <div class="jumbotron" style="">
 
-            <p class="lead">Institut Agama Islam Sunan Giri Bojonegoro</p>
+            <h1 >E-Health</h1>
+
+            <p class="lead">Sistem Informasi Kesehatan</p>
         </div>
     </div>
     
